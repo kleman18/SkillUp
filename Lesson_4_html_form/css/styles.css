@@ -1,0 +1,32 @@
+ul > li {
+    color: blue;
+    text-decoration: underline; 
+} 
+
+/*  */
+
+table{
+    border: 1px solid black;
+}
+
+thead {
+    border: 2px;
+    color: black;
+}
+
+tbody {
+    border: 1px;
+}
+
+#tabhead {
+    background: slateblue;
+}
+
+#descripton {
+    display: block;
+    width: 100%;
+}
+
+#btn {
+    justify-content: center;
+}
